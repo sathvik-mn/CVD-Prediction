@@ -1,6 +1,6 @@
 # CVD Prediction
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.maxlab.co.in%2Fsymptoms%2Fheart-attack&psig=AOvVaw0kzKC_RDuSguwexKmLpyYr&ust=1711846909129000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqGAoTCPC-mOrkmoUDFQAAAAAdAAAAABCVAQ
+![image](https://github.com/sathvik-mn/CVD-Prediction/assets/135670987/4e5f57bb-1018-4f50-9f50-840c4e805794)
 
 
 The project's goal is to harness the capabilities of machine learning to develop a predictive model (or models) focused on heart disease data. This initiative represents a foundational step in a broader, multidimensional research effort aimed at understanding and analyzing the multifaceted factors contributing to heart attacks. 
